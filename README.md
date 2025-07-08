@@ -32,5 +32,5 @@ This system supports:
 
 ---
 
-## 🗂️ Recommended Package Structure
+
 
